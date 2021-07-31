@@ -10,7 +10,7 @@ const Menu = [{
 {
     id: 2,
     image: "images/biryani.jpg",
-    name: "maggi",
+    name: "Biryani",
     category: "lunch",
     price: 20,
     description: "lorennk n",
@@ -18,7 +18,7 @@ const Menu = [{
 {
     id: 3,
     image: "images/burger.png",
-    name: "maggi",
+    name: "Burger",
     category: "lunch",
     price: 15,
     description: "lorennk n",
@@ -27,7 +27,7 @@ const Menu = [{
 {
     id: 4,
     image: "images/karahi.jpg",
-    name: "maggi",
+    name: "Karahi",
     category: "lunch",
     price: 100,
     description: "lorennk n",
@@ -36,7 +36,7 @@ const Menu = [{
 {
     id: 5,
     image: "images/pizza.jpg",
-    name: "maggi",
+    name: "Pizza",
     category: "lunch",
     price: 50,
     description: "lorennk n",
@@ -45,16 +45,16 @@ const Menu = [{
 {
     id: 6,
     image: "images/samosa.jpg",
-    name: "maggi",
-    category: "lunch",
+    name: "Samosa",
+    category: "Evening",
     price: 55,
     description: "lorennk n",
 },
 {
     id: 7,
     image: "images/burger.png",
-    name: "maggi",
-    category: "lunch",
+    name: "Burger",
+    category: "Dinner",
     price: 95,
     description: "lorennk n",
 },
@@ -62,8 +62,8 @@ const Menu = [{
 {
     id: 8,
     image: "images/pizza.jpg",
-    name: "maggi",
-    category: "lunch",
+    name: "Pizza",
+    category: "Late Night",
     price: 90,
     description: "lorennk n",
 },
@@ -71,20 +71,13 @@ const Menu = [{
 {
     id: 9,
     image: "images/karahi.jpg",
-    name: "maggi",
+    name: "Karahi",
     category: "lunch",
     price: 80,
     description: "lorennk n",
 },
 
-{
-    id: 10,
-    image: "images/biryani.jpg",
-    name: "maggi",
-    category: "lunch",
-    price: 50,
-    description: "lorennk n",
-},
+
 
 
 ]

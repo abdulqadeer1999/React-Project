@@ -10,7 +10,7 @@ export const Restaurant = () => {
 
     return (
         <div>
-            <MenuCard /> 
+            <MenuCard menuData={menuData} /> 
             
         </div>
     )
