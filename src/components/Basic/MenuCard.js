@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const MenuCard = () => {
+ const MenuCard = () => {
     return (
         <div>
             <div className="card-container">
@@ -22,3 +22,5 @@ export const MenuCard = () => {
         </div>
     )
 }
+
+export default MenuCard;
